@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
 
 <picture>
@@ -266,3 +267,7 @@ This Boilerplate is made possible thanks to all of its contributors.
 ---
 
 Made by [Jonghakseo](https://jonghakseo.github.io/)
+=======
+# pageReplacementChromePlugin
+a chrome plugin,replace sensitive content on the page with others,such as work content,pretend to work while doing other stuf
+>>>>>>> b3772838eabdc8f01f2ce6b5e27a7bfd5c577f3c
